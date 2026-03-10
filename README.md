@@ -32,5 +32,5 @@ excluded from this repository for security reasons.
 
 | Kiosk | Phone |
 |------|------|
-| ![Before](images/dashboards/kiosk_ui.jpeg) | ![After](images/dashboards/phone_ui.jpg) |
+| ![Before](images/dashboards/kiosk_ui.png) | ![After](images/dashboards/phone_ui.jpg) |
 
